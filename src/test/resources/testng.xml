@@ -4,6 +4,9 @@
     <test name="Quick1">
         <classes>
             <class name="com.demowebshop.tests.HomePageTests"/>
+            <class name="com.demowebshop.tests.CreateAccountTests"/>
+            <class name="com.demowebshop.tests.LoginTests"/>
+            <class name="com.demowebshop.tests.AddItemToCartTests"/>
         </classes>
     </test>
 </suite>
