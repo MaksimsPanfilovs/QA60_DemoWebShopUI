@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demowebshop.tests.AddItemToCartTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-08T16:09:01" hostname="WINDOWS-5CUU06H" time="1.459">
+  <properties/>
+  <testcase name="addItemToCartPositiveTest" classname="com.demowebshop.tests.AddItemToCartTests" time="1.459"/>
+  <system-out><![CDATA[18:08:50.354 [Test worker] INFO  com.demowebshop.tests.TestBase -- Start test addItemToCartPositiveTest[]
+18:09:03.386 [Test worker] INFO  com.demowebshop.tests.TestBase -- PASSED: addItemToCartPositiveTest
+18:09:03.386 [Test worker] INFO  com.demowebshop.tests.TestBase -- Stop test
+18:09:03.386 [Test worker] INFO  com.demowebshop.tests.TestBase -- ===========================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

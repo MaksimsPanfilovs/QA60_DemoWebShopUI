@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demowebshop.tests.LoginTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-08T16:08:49" hostname="WINDOWS-5CUU06H" time="1.108">
+  <properties/>
+  <testcase name="userLoginPositiveTest" classname="com.demowebshop.tests.LoginTests" time="1.108"/>
+  <system-out><![CDATA[18:08:49.220 [Test worker] INFO  com.demowebshop.tests.TestBase -- Start test userLoginPositiveTest[]
+18:08:50.350 [Test worker] INFO  com.demowebshop.tests.TestBase -- PASSED: userLoginPositiveTest
+18:08:50.351 [Test worker] INFO  com.demowebshop.tests.TestBase -- Stop test
+18:08:50.351 [Test worker] INFO  com.demowebshop.tests.TestBase -- ===========================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
